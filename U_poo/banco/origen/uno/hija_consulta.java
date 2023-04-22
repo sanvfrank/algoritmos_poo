@@ -19,6 +19,7 @@ public class hija_consulta extends padre {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
    
+   hhhhggghghghghgh
  
 
    
